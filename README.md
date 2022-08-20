@@ -2,7 +2,7 @@
 
 ![](./IESViewer/data/preview.png)
 
-This extension displays IES profile web for selected light objects. It is particularly useful for visualizing architectural lighting designs. Orientation of measured light distribution profiles could be quickly tested with visual feedback. IES files are resampled to be light weight and consistant to render.
+This extension displays IES profile web for selected light objects. It is particularly useful for visualizing architectural lighting designs. Orientation of measured light distribution profiles could be quickly tested with visual feedback. IES files are resampled to be light weight and consistant to render. [A video demo](https://drive.google.com/file/d/1DxvjVGT6ZlfukfuTvyBu3iXaHz8qvY5Q/view?usp=sharing)
 
 This extension is developed based on the [omni.example.ui_scene.object_info](https://github.com/NVIDIA-Omniverse/kit-extension-sample-ui-scene/tree/main/exts/omni.example.ui_scene.object_info)
 
